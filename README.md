@@ -28,8 +28,8 @@ The challenges are to make Users that should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-with-tailwind-ytcMcHxdsj]
-- Live Site URL: [https://newsletter-signup-erbeliza.vercel.app/]
+- Solution URL: [Solution Link](https://www.frontendmentor.io/solutions/newsletter-signup-with-tailwind-ytcMcHxdsj)
+- Live Site URL: [Live Preview Link] (https://newsletter-signup-erbeliza.vercel.app/)
 
 ## My process
 
